@@ -5,6 +5,6 @@
 #### heading  4
 ---
 # languages
-+c
-+c#
-+java
++ c
++ c#
++ java
